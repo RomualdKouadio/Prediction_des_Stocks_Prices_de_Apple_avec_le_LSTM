@@ -1,4 +1,4 @@
-# Prediction_des_Stocks_Prices_de_Apple_avec_le_LSTM
+# PREDICTION DES STOCKS PRICES APPLE AVEC LE LSTM
 
 ![Best-Crypto-Trading-Bots-in-2021](https://user-images.githubusercontent.com/101726242/164428368-092f9d08-f70d-4d8e-9d8d-34c5f9f2991b.jpg)
 
